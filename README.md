@@ -664,7 +664,7 @@ Clone the repository into the `Plugins` folder of [MuseScore 3](https://musescor
 
 ```sh
 $ cd ~/Documents/Musescore 3/Plugins
-$ git clone https://github.com/IvanBuccella/notes-sound-generator
+$ git clone https://github.com/fabiodant/esp32-prototype-Bluetooth-protocol
 ```
 
 ### Build
